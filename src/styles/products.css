@@ -1,0 +1,12 @@
+.proItems{
+    display: flex;
+    
+    margin-top: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid black;
+    padding: 50px;
+}
+.proImage img{
+    margin-right:50px ;
+}

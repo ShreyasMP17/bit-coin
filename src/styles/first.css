@@ -1,0 +1,9 @@
+.txt{
+    text-align: center;
+}
+.box1{
+    border: 1px solid black;
+    display: flex;
+    height: 500px;
+    width: 600px;
+}
