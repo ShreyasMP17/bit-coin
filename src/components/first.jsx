@@ -16,6 +16,7 @@ const First = () => {
         <div className="first">
             <div className="main">
                 <div className="txt">
+                    <h1>HUNK</h1>
 <h1>CRYPTOCURRENCY LIVE PRICE TABLES</h1>
 <p>Minimum puchase is 50 coins tokens.Get a bonus from <br /> 25% <br /> to on every token purchase</p>
 </div>
