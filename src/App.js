@@ -7,19 +7,17 @@ import Products from "./components/products";
 function App() {
   return (
     <div className="App">
-    <First/>
-      {/* <BrowserRouter>
+    
+      <BrowserRouter>
       <Navbar/>
       <Routes>
-       
+        <Route path="/" element={<First/>}/>
         <Route path="/products" element={<Products/>}/>
         <Route />
       </Routes>
       </BrowserRouter>
 
-      <Routes>
-        <Route path="/products/:id" element={<Details/>}/>
-      </Routes> */}
+     
     </div>
   )
 }
