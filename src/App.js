@@ -11,8 +11,8 @@ function App() {
       <BrowserRouter>
       <Navbar/>
       <Routes>
-        <Route path="/" element={<First/>}/>
-        <Route path="/products" element={<Products/>}/>
+        <Route path="/bit-coin/" element={<First/>}/>
+        <Route path="/bit-coin/products" element={<Products/>}/>
         <Route />
       </Routes>
       </BrowserRouter>
